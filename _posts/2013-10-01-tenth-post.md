@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Bluth
+title: Onam
 ---
 
 {% include bluth.html %}
